@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-g$(-g__(@kj(_u1uy(6$i-t8z5+uqo0t+7-4(+w=!r+wh2wm%n
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['muradportfolio.herokuapp.com']
 
 
 # Application definition
